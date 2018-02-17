@@ -9,5 +9,5 @@ public:
 
 	}
 	void paste();
-};
+};é
 
