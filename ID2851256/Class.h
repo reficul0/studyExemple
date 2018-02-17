@@ -8,5 +8,6 @@ public:
 	{
 
 	}
+	void paste();
 };
 
