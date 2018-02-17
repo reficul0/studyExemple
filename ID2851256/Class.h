@@ -8,6 +8,6 @@ public:
 	{
 
 	}
-	void paste();
+	void paste();wqeqweqeqe
 };é
 
