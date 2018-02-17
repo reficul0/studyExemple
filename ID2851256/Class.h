@@ -8,10 +8,6 @@ public:
 	{
 
 	}
-<<<<<<< HEAD
 	void paste();wqeqweqeqe
-=======
-	void paste();éöóéöóéöóéöóéöóéöóéqewqeqw
->>>>>>> paste
 };é
 
